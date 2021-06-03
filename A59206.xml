@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad news from Ratcliff being a full and true relation of a horrid and bloody murther committed upon the bodies of an antient gentlewoman (Captain Giddings wifes mother), and his sisters child, who was a girl of two years and a half old, and a maidservant in the the house, by Robert Condinge ..., William Thomas and William Rogers ... who afterward robbed the house of Captain Giddings in Brook-street, Ratcliff, on Friday the thirteenth of this instant January : how Condinge was apprehended ... with an account of his confession and commitment to Newgate &amp;c., faithfully related and published to prevent mistakes and false reports.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59206</idno><idno type="EEBO-CITATION">16268068</idno>
+  <idno type="VID">105196</idno>
+  <idno type="EEBO-PROQUEST">2240884805</idno>
+  
+            <idno type="STC">Wing S255</idno>
+            <idno type="STC">ESTC R37200</idno>
+            <idno type="OCLC">16268068</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105196)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1156:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad news from Ratcliff being a full and true relation of a horrid and bloody murther committed upon the bodies of an antient gentlewoman (Captain Giddings wifes mother), and his sisters child, who was a girl of two years and a half old, and a maidservant in the the house, by Robert Condinge ..., William Thomas and William Rogers ... who afterward robbed the house of Captain Giddings in Brook-street, Ratcliff, on Friday the thirteenth of this instant January : how Condinge was apprehended ... with an account of his confession and commitment to Newgate &amp;c., faithfully related and published to prevent mistakes and false reports.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Condinge, Robert.</term>
+               <term type="topical_term">Murder --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:105196:1"/>
+            <pb facs="tcp:105196:1"/>
+            <head>
+               <hi>Sad News from</hi> RATCLIFF: Being a Full and True RELATION OF A <hi>Horrid and Bloody</hi> MURTHER, Committed upon the Bodies of an Antient Gentlewoman, (Captain <hi>Giddings</hi> Wifes Mother) and his Sisters Child, who was a Girl of Two Years and a half Old, and a Maid-Servant in the House, by <hi>Robert Condinge</hi> Servant to Captain <hi>Giddings, William Thomas</hi> and <hi>William Rogers,</hi> all Seamen or pretended Seamen; who afterwards Robbed the House of Captain <hi>Giddings</hi> in <hi>Brook-street Ratcliff,</hi> on <hi>Tuesday</hi> the Thirteenth of this instant <hi>January.</hi> How <hi>Con<g ref="char:EOLhyphen"/>dinge</hi> was Apprehended (Selling the Plate they had Stolen) at a Goldsmiths Shop without <hi>Aldgate:</hi> With an Account of his Confession and Commitment to <hi>Newgate,</hi> &amp;c. Faithfully Related and Published, to prevent Mistakes and False Reports.</head>
+            <p>AS every day produces new Examples of Barbarity and Murther, and tho the Eye of Providence seldom leaves any Corner un<g ref="char:EOLhyphen"/>searched, for the Discovery of the Inhumane Actors of such unheard of Cruelties, to bring their Devilish Deeds to light, that thereby they may receive a Reward answerable to their Deserts: Yet the Devil is so conversant with some sort of Persons, who will ven<g ref="char:EOLhyphen"/>ture their Souls, Lives, and all that is Dear unto them, to perpetrate their Villanies, notwithstanding the Daily Examples of Justice they meet with; one of which (and Impious in the Superlative Degree) this follow<g ref="char:EOLhyphen"/>ing Relation will furnish you with, which is published on purpose to prevent False Reports, as (without doubt) some People, upon such an Execrable Murther, will be otherwise apt to raise. And no longer to digress from the Relation, I shall Faithfully declare the Matter without any Addition, Equivocation, or Mendacity whatsoever.</p>
+            <p>Captain <hi>William Giddings,</hi> who liveth in <hi>Brook-street</hi> in <hi>Ratcliff,</hi> about three Months since took to Prentice one <hi>Robert Condinge</hi> aged about Eighteen Years, who proved a Dissolute young Man, and led a more Reprobate Life, whom Captain <hi>Giddings</hi> never had any good opinion of;
+<pb facs="tcp:105196:2"/> notwithstanding he still acted in his Station indifferent well: But coming ashore about Nine days since at <hi>Blackwall,</hi> to the Sign of the <hi>Rose</hi> and <hi>Crown,</hi> he (as the Devil had appointed) chanced to come in Company with two Men, who pretended to be Press-masters, one whose Name was <hi>William Thomas,</hi> and the other <hi>William Rogers,</hi> they drinking toge<g ref="char:EOLhyphen"/>ther for some Hours, came so far acquainted, that they in a little time made this Infernal Conclusion, That they wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld Rob the House of Capt. <hi>Giddings,</hi> and Murther his Family, which they thus brought to pass.</p>
+            <p>Upon <hi>Tuesday</hi> the Thirteenth of this instant <hi>January,</hi> the aforesaid <hi>Robert Condinge</hi> came to <hi>Ratcliff</hi> to his Master's House, at which time Captain <hi>Giddings</hi> happened to be from Home about his Affairs, and his Wife was gone to a Christening <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ving on<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> her Mother (an antient Gentlewoman) and his Sisters Child, being a little Girl, aged two Years and a half, and a Maid Servant. <hi>Condinge</hi> had not been long in the House, ere <hi>Thomas</hi> and <hi>Rogers</hi> knocked at the Door, who asked to speak with <hi>Condinge,</hi> and were accordingly (fatally) admitted; they had not been long in the House, er'e they desired the Maid (the better c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> compass their hellish Design) to fetch them a Pennyworth of Tabacco; but as soon as she was gone, they set upon the old Gentlewoman, knock'd her down with a Smith's Iron Hand-Maw, and gave her an extraordi<g ref="char:EOLhyphen"/>nary large cut with a Hand-Clever over the Forehead cross-ways, that she immediately died; and the Child crying, <hi>Rogers</hi> swore, <hi>Damn it, does it make a Noise? Kill it.</hi> Which inhumanly they did, and the Maid return<g ref="char:EOLhyphen"/>ing with the Tabacco, they knock'd down, as before, and gave her a Cut cross the Forehead with the Cleaver, so deep that her Brains came out upon the floor.</p>
+            <p>Then they ransack'd the House, and stole of Plate, a double and single Tankard, and six Spoons, besides Rings, Jewels, currant Gold, and other things to a great value; but was in such haste, that they left two Silver Porringers in a Chest of Drawers, and other Childrens Plate. <hi>Thomas</hi> and <hi>Rogers</hi> being old politick Rogues, took the Money, Gold, <hi>&amp;c.</hi> and gave <hi>Condinge</hi> the two Tankards and Spoons; who went to a Gold<g ref="char:EOLhyphen"/>smith's Shop without <hi>Aldgate,</hi> and asked to buy a Ring, but for the pay<g ref="char:EOLhyphen"/>ment he offered one of the Spoons, and likewise he offered the rest of them and the Tankards to sale; he looking like an idle Fellow, and gi<g ref="char:EOLhyphen"/>ving no good Account how he came by them, the Goldsmith caused him to be seiz'd; and a crowd of People gathering together, and some of them seeing the Marks of the Plate, charg'd him with the Murther; which at first he stifly deny'd, till being promised Liberty if he Peache'd his Confederates, he confess'd he was accessary to it, but did not assist in it, he looking on till the other did it, and that he was to meet them at a Strong-water-Shop in <hi>Wapping</hi> that Night. Upon which he was had before a Justice, and committed to <hi>Newgate,</hi> and search made for the other two, but could not be found that night: But yesterday being the Fourteenth of this Instant, <hi>William Thomas</hi> was taken and sent to <hi>Newgate</hi> to keep the other company, and we doubt not but their number will quickly be compleated; for diligent search is made for <hi>Rogers,</hi> who is not like to 'scape from the hands of Justice. What Lamentation and Cries there were in this unhappy House when the unwelcom News arrived to the Ears of Captain <hi>Giddings</hi> and his Wife, I leave the Reader to judge, and shall conclude, <hi>From Battel, Murther, and from sudden Death, Good Lord deliver us.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> G. Croom, <hi>at the</hi> Blue-Ball <hi>in</hi> Thames-street, <hi>1691.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
